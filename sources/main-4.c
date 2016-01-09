@@ -1,5 +1,3 @@
-/* 주석 추가 - 네이버 몰리*/
-
 #include <stdio.h>
  
 int add(int, int);
